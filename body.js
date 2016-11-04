@@ -2,8 +2,7 @@ walk(document.body);
 
 function walk(node)  
 {
-    // More than inspired by Steven Frank 
-    // this function was borrowed from him
+    // this function borrowed
     
     var child, next;
 
