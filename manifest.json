@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Existentialify",
-    "version": "1.2",
+    "version": "3.14",
     "description": "Proust Pride",
     "content_scripts": [
         {
